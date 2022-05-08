@@ -1,7 +1,7 @@
 # demo-repo
 Demo for Github intro video
 
-Repo following tutorial!
+Repo following tutorial! More to see...
 
 ## Subheader
 
